@@ -1,4 +1,4 @@
-1 часть
+#1 часть
 
 import math
 def proj():
@@ -7,7 +7,7 @@ def proj():
 print (proj())
 
 
-2 часть
+#2 часть
 
 S = 10
 n=int(input("Введите значение "))
@@ -19,7 +19,7 @@ while x<day:
 print (S)
 
 
-3 часть
+#3 часть
 
 N = [1,2,3,-4,5,6,7,-8,9,10,0]
 print(min(N))
